@@ -1,6 +1,6 @@
 # Space Disagreement Resolver 宇宙分歧终端机
 
-![](https://ai-studio-static-online.cdn.bcebos.com/653d14ea292249e181e645068861bfc22ef2612808474d56b63b9075a23204c9)
+![](https://github.com/yongxinliao-hqu/SpaceDisagreementResolver/blob/main/Demo/spacewars.jpeg)
 
 ### 在这个宇宙里最大的问题是什么？是分歧！但是怎样可以解决掉分歧呢？
 
@@ -12,11 +12,11 @@
 
 ### 第二代“宇宙分歧终端机”的量产，将能够解决一切宇宙间的纷争...
 
-![](https://ai-studio-static-online.cdn.bcebos.com/2aa7d7a275364adca6d5765adb902b858d31f98c32b841a38423dd6eae488ffe)
+![](https://github.com/yongxinliao-hqu/SpaceDisagreementResolver/blob/main/Demo/how_to_play.jpeg)
 
 
 # 效果展示
-![](https://ai-studio-static-online.cdn.bcebos.com/d434fc46d0744f2fb3ca1c572232d2938dcf5e87c9394547ac61bfe3640888d9)
+![](https://github.com/yongxinliao-hqu/SpaceDisagreementResolver/blob/main/Demo/Demo.png)
 
 
 ## B站视频链接
@@ -24,7 +24,7 @@
 ## Github链接
 
 ###欢迎 Star 和 Fork :)
-![](https://ai-studio-static-online.cdn.bcebos.com/4542acb7db4649df91f3da8308fbbcf7ae00e6e1348c4b45b934f73f2604ff91)
+![](https://github.com/yongxinliao-hqu/SpaceDisagreementResolver/blob/main/Demo/star_fork.png)
 
 # 本项目的实现过程
 
@@ -43,7 +43,7 @@ https://aistudio.baidu.com/aistudio/projectdetail/2183462
 https://aistudio.baidu.com/aistudio/projectdetail/2179537
 
 ## 第二步、将基本功能进行组合，实现“宇宙分歧终端机”效果
-![](https://ai-studio-static-online.cdn.bcebos.com/6f5ff2a2c0c1491bb6deae1558c8a89afec2319e91104b71aff2f33765d16788)
+![](https://github.com/yongxinliao-hqu/SpaceDisagreementResolver/blob/main/Demo/Demo%202.png)
 
 ### References 参考项目
 1. 【飞桨创意之星】宋代诗人念诗的秘密--PaddleGAN实现精准唇形合成
