@@ -13,3 +13,66 @@
 ### 第二代“宇宙分歧终端机”的量产，将能够解决一切宇宙间的纷争...
 
 ![](https://ai-studio-static-online.cdn.bcebos.com/2aa7d7a275364adca6d5765adb902b858d31f98c32b841a38423dd6eae488ffe)
+
+
+# 效果展示
+![](https://ai-studio-static-online.cdn.bcebos.com/d434fc46d0744f2fb3ca1c572232d2938dcf5e87c9394547ac61bfe3640888d9)
+
+
+## B站视频链接
+
+## Github链接
+
+###欢迎 Star 和 Fork :)
+
+# 本项目的实现过程
+
+## 第一步、测试基本模块
+
+### 对五种手势进行拍照，收集数据（每个手势仅有10张左右图片），通过EasyDL进行训练，并测试EasyDL自定义数据集手势识别
+
+https://aistudio.baidu.com/aistudio/projectdetail/2181186
+
+### 测试lac词法分析，用于在纠纷细节描述中抽取纠纷对象（尚不够完善）
+
+https://aistudio.baidu.com/aistudio/projectdetail/2183462
+
+### 测试PaddleGan唇型合成，用于生成规则解释视频
+
+https://aistudio.baidu.com/aistudio/projectdetail/2179537
+
+## 第二步、将基本功能进行组合，实现“宇宙分歧终端机”效果
+![](https://ai-studio-static-online.cdn.bcebos.com/6f5ff2a2c0c1491bb6deae1558c8a89afec2319e91104b71aff2f33765d16788)
+
+### References 参考项目
+1. 【飞桨创意之星】宋代诗人念诗的秘密--PaddleGAN实现精准唇形合成
+
+https://aistudio.baidu.com/aistudio/projectdetail/2179878
+
+2. PaddleHub预训练模型LAC完成词法分析
+
+https://aistudio.baidu.com/aistudio/projectdetail/215711
+
+3. EasyDL零门槛AI开发平台文档
+
+https://ai.baidu.com/ai-doc/EASYDL/pk38n3odv
+
+4. 美图修修裁剪头像
+
+https://pc.meitu.com
+
+5. paddlehub官网地址:
+
+https://www.paddlepaddle.org.cn/hub
+
+6. Wechaty 文档
+
+https://wechaty.js.org/docs/
+
+7. Get a Free Wechaty Token
+
+https://wechaty.js.org/docs/puppet-services/
+
+8. S05E17 石头剪刀布蜥蜴史波克的玩法
+
+https://www.bilibili.com/video/av15068925
