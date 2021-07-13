@@ -24,6 +24,7 @@
 ## Github链接
 
 ###欢迎 Star 和 Fork :)
+![](https://ai-studio-static-online.cdn.bcebos.com/4542acb7db4649df91f3da8308fbbcf7ae00e6e1348c4b45b934f73f2604ff91)
 
 # 本项目的实现过程
 
