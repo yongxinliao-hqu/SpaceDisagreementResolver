@@ -1,1 +1,15 @@
-# SpaceDisagreementResolver
+# Space Disagreement Resolver 宇宙分歧终端机
+
+![](https://ai-studio-static-online.cdn.bcebos.com/653d14ea292249e181e645068861bfc22ef2612808474d56b63b9075a23204c9)
+
+### 在这个宇宙里最大的问题是什么？是分歧！但是怎样可以解决掉分歧呢？
+
+### 其实人类早已想到了办法，那就是猜拳，但这个看似很公平的方法其实存在两种致命缺陷，就是出手时的快慢和作弊！
+
+### 就是这两种缺陷而导致其它解决分歧方法的出现，像投票，辩论。但这是本末倒置，应该回到基本！
+
+### 第一代“分歧终端机”在地球上的出现成功解决了人类猜拳时的快慢和作弊问题！
+
+### 第二代“宇宙分歧终端机”的量产，将能够解决一切宇宙间的纷争...
+
+![](https://ai-studio-static-online.cdn.bcebos.com/2aa7d7a275364adca6d5765adb902b858d31f98c32b841a38423dd6eae488ffe)
