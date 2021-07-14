@@ -20,10 +20,9 @@
 
 
 ## B站视频链接
+### https://www.bilibili.com/video/BV1ab4y1k74P?share_source=copy_web
 
-## Github链接
-
-###欢迎 Star 和 Fork :)
+### 欢迎 Star 和 Fork :)
 ![](https://github.com/yongxinliao-hqu/SpaceDisagreementResolver/blob/main/Demo/star_fork.png)
 
 # 本项目的实现过程
